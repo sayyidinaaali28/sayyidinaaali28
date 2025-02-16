@@ -4,6 +4,10 @@ Perkenalkan nama saya **Sayyidinaa Ali**.<br>
 
 Saya seorang **Mahasiswa yang sedang belajar** di Universitas Tarumanagara.<br>
 
+# 🌐 Connect With Me
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayyidinaaali/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ali.sayyidinaa/)
+
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/penuliscode">
